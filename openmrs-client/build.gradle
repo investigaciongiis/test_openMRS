@@ -11,7 +11,7 @@ buildscript {
 }
 plugins {
     id 'com.android.application'
-    id 'com.github.triplet.play' version '2.2.1'
+    id 'com.github.triplet.play' version '4.0.0'
     id 'kotlin-android'
     id 'kotlin-android-extensions'
     id 'kotlin-kapt'
