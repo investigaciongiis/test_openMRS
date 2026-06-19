@@ -1,0 +1,33 @@
+{
+  "app_metadata": {
+    "Name": "OpenMRS",
+    "Developer": "Openmrs.org",
+    "Category": "Mobile Health (mHealth) / EMR Client",
+    "Supported platforms": "Android (SDK 19-33+)",
+    "Version": "3.1.2",
+    "Last update": "31/03/2026",
+    "Compatible idioms": "English",
+    "Source": "Open source",
+    "License": "MPL-2.0",
+    "Main language": "Java + Kotlin + XML + Groovy"
+  },
+  "actors": {
+    "Auditor": "Juan José López Jiménez",
+    "Requirement Engineering team": [
+      "Carlos M. Mejía-Granda",
+      "José L Fernández-Alemán",
+      "Juan Manuel Carrillo-de-Gea",
+      "Joaquín Nicolás",
+      "Juan José López Jiménez"
+    ],
+    "Engineering Group (EN)": [
+      "Carlos M. Mejía-Granda",
+      "José L Fernández-Alemán",
+      "Juan Manuel Carrillo-de-Gea",
+      "Joaquín Nicolás",
+      "Juan José López Jiménez"
+    ]
+  },
+  "header_text": "OpenMRS Android Client v3.1.1",
+  "cover_page_text": "OpenMRS Android Client - v3.1.1"
+}
