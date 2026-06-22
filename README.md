@@ -18,7 +18,6 @@ OpenMRS Android Client and SDK
 - [License](#License)
 - [Resources](#Resources)
 
-
 # Description
 * The purpose of this project is to provide an OpenMRS client for Android devices. The app is designed to cover most of the functionality currently on the web application.
 The app communicates with OpenMRS instances using REST. It supports working offline (without a network connection). The database on the device is encrypted and password-protected to secure patient data.
