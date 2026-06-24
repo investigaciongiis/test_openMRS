@@ -20,7 +20,7 @@ buildscript {
         classpath "com.hiya:jacoco-android:0.2"
 
         // Hilt Plugin
-        classpath 'com.google.dagger:hilt-android-gradle-plugin:2.42'
+        classpath 'com.google.dagger:hilt-android-gradle-plugin:2.59.2'
     }
 }
 
